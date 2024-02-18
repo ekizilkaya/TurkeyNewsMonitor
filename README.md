@@ -1,5 +1,6 @@
-# TurkeyNewsMonitor
-Datasets of Journo's Turkey News Monitor Project (2023-2024)
+# Journo News Monitor: An AI-Powered Study on Digital Media Outlets of Turkey (2023-2024)
+
+This repo includes the datasets of the project.
 
 See (English): https://journo.com.tr/journo-news-monitor ‎
 
